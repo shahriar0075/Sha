@@ -1,4 +1,4 @@
-void main()
-{
-    print("This is mad lab);
+class login{
+  String login;
+  String password;
 }
